@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Viktoriia
 
-⚡ My long way from philologist to web-developer started on September, 2019
+⚡ My long way from philologist to web developer started on September, 2019
 
 🌱 I’m currently learning full stack development
 
