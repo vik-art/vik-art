@@ -1,5 +1,13 @@
 ### Hi there 👋
+My name is Viktoriia
 
+⚡ My long way from philologist to web-developer started on September, 2019
+
+🌱 I’m currently learning full stack development
+
+😄 I love what I do and do what I love
+
+📫 How to reach me: krjuchenkova@gmail.com. You're welcome!
 <!--
 **vik-art/vik-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
