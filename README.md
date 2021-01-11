@@ -7,7 +7,7 @@ My name is Viktoriia
 
 😄 I love what I do and do what I love
 
-📫 How to reach me: krjuchenkova@gmail.com. You're welcome!
+📫 How to reach me: frankenweenie1984@gmail.com. You're welcome!
 <!--
 **vik-art/vik-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
