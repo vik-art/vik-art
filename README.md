@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vika
 You're welcome to my favourite social media page🙃
 
-- Web-developmer in Digis, Angular-developmer in Huma;
+- Web-developer in Digis, Angular-developer in Huma;
 - Personal account for pet-projects;
 - Angular is my love;
 - email frankenweenie1984@gmail.com, +380976248135 (Telegram)
